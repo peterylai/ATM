@@ -14,7 +14,7 @@ This completed code already satisfies the following requirements:
 
 1) Refactor the code so that it is:
 
-  * Object-oriented
+  * Object-oriented (as opposed to procedural)
   * DRY
   * Follows good naming conventions
 
