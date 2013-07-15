@@ -16,7 +16,8 @@ This completed code already satisfies the following requirements:
 
   * Object-oriented
   * DRY
+  * Follows good naming conventions
 
 2) Comment the code to explain what it does and why you made certain design decisions.
 
-When you are done, zip up your solution and email it back to us.
+We're most interested in your understanding of the JavaScript language and best practices. When you are done, zip up your solution and email it back to us.
